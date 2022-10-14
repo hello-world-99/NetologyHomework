@@ -7,4 +7,4 @@
 <li>Дизайн-студия имени Слишком Известного Персонажа</li>
 </ol>
 
-Нас можно найти в [google.com.](google.com)
+Нас можно найти в [google.com.](https://www.google.com/)
